@@ -3,9 +3,11 @@
 **Datum rešerše:** 26. září 2026
 **Zadání:** žádný e-shop; opakovaně prodejná služba, kterou lze z velké části automatizovat.
 
+> **Rozšíření:** následná [celosvětová rešerše](globalni-pruzkum-ai-sluzeb.md) potvrzuje problém ztracených leadů, ale doporučuje širší pozici „revenue recovery“. Hlasová recepční je jeden kanál vedle SMS, WhatsAppu, webu a e-mailu, nikoliv celý produkt.
+
 ## Výsledek
 
-Nejlepší startovní sázka je **AI recepční zaměřená na zmeškané a mimopracovní hovory** pro jednu konkrétní vertikálu. Nejde o univerzálního chatbota. Jde o provozovanou službu, která:
+Nejlepší startovní sázka je **revenue recovery zaměřené na zmeškané a mimopracovní kontakty** pro jednu konkrétní vertikálu. První implementací může být AI recepční, bezpečnější SMS follow-up nebo jejich kombinace. Nejde o univerzálního chatbota. Jde o provozovanou službu, která:
 
 1. přijme nebo okamžitě obvolá zmeškaný hovor,
 2. sdělí, že volající komunikuje s automatizovaným asistentem,

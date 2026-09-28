@@ -1,6 +1,6 @@
 # AI služba, kterou lze prodávat v Česku
 
-Tento repozitář obsahuje praktický průzkum příležitostí pro **automatizovanou AI službu** bez e-shopu. Výstup odděluje doložená data od hypotéz, porovnává sedm nápadů a převádí vítězný koncept do 30denního validačního plánu.
+Tento repozitář obsahuje praktický průzkum příležitostí pro **automatizovanou AI službu** bez e-shopu. Výstup nejprve mapuje obchodní modely napříč světovými regiony, potom hodnotí jejich přenositelnost do Česka a vítězný koncept převádí do 30denního validačního plánu.
 
 ## Doporučení v jedné větě
 
@@ -10,6 +10,7 @@ Neprodávejte „AI“. Prodávejte měřitelný výsledek: **více zachráněn�
 
 ## Obsah
 
+- [Celosvětový průzkum příležitostí](docs/globalni-pruzkum-ai-sluzeb.md)
 - [Průzkum trhu a doporučení](docs/pruzkum-ai-sluzeb.md)
 - [Validační rozhovor a prodejní skript](docs/validacni-playbook.md)
 
